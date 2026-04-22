@@ -14,7 +14,7 @@ def es_primo(n):
             return False
     return True
 
-st.title("🔢 Verificador de Números Primos")
+st.title("🔢 Verificador de Números Primos/Prime Number checker (por Julio García)")
 
 numero = st.number_input("Ingresa un número", min_value=1, step=1)
 
